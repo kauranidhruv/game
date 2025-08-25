@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "player"
             }
+          },
+          {
+            "id": "cb41fb999026de75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hello/game.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "game"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,10 +197,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a3ae9a75de2e04c",
+  "active": "f429317fbe83c6ff",
   "lastOpenFiles": [
+    "player/player.md",
+    "hello/game.md",
     "icon.svg",
-    "world/world.md",
-    "player/player.md"
+    "world/world.md"
   ]
 }
