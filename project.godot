@@ -14,6 +14,16 @@ config/name="brackeys-game"
 config/features=PackedStringArray("4.4", "GL Compatibility")
 config/icon="res://icon.svg"
 
+[file_customization]
+
+folder_colors={
+"res://gamejam/assets/": "orange",
+"res://gamejam/characters/": "green",
+"res://gamejam/main/": "red",
+"res://gamejam/scripts/": "yellow",
+"res://gamejam/test_levels/": "blue"
+}
+
 [rendering]
 
 renderer/rendering_method="gl_compatibility"
